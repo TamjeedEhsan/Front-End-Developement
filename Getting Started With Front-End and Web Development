@@ -92,6 +92,61 @@ Prototyping and Collaborating Tools:
 - Prototyping tools = axure rp, proto.io, marvel
 - collaborating tools = zeplin, avocode, abstract
 
+Design Considerations
+- Responsive design is essential for accommodating various devices, especially mobile.
+- Consistency in design elements, such as colors and typography, enhances usability and navigation.
+
+Empathy and User-Centered Design
+- Understanding user personas and conducting usability research are vital for creating effective designs.
+- Accessibility should be prioritized to ensure inclusivity for all users.
+
+Overview:
+Question 1
+You are a front-end developer tasked with creating a user-friendly and visually appealing website for a new e-commerce platform. What would be one of your key responsibilities 
+in this role?
+= Implementing design elements and interactivity to enhance user experience
+
+Question 2
+You are a front-end developer working on a project to redesign a news website to make the website responsive. Responsive design is needed because it:
+= Ensures proper display on different devices.
+
+Question 3
+Imagine you’re a front-end developer for an e-commerce site with slow load times and a high bounce rate. To optimize this site, you would:
+= Minify, cache, and optimize assets.
+
+Question 4
+Full-stack developers’ role is different from other web developers? As a full-stack developer, you will be someone who is:
+= Proficient in both front-end and back-end development.
+
+Question 5
+Which trend combines web and mobile app features to provide offline capabilities, push notifications, and app-like experiences accessible through a web browser
+= Progressive Web Apps (PWAs)
+
+Question 6
+Imagine you’re a web developer starting a new project. You’re at a stage where you need to bring the design and functionality to life. What’s the term for this stage, where 
+you write code to create web pages, integrate databases, and implement features and functionalities?
+= Development and Implementation
+
+Question 7
+Imagine you are a web developer tasked with building the server-side components of a new e-commerce website. Which programming languages would you consider using to implement 
+the functionality and logic required for user authentication, form handling, and data processing?
+= PHP, Python, Ruby, or Java
+
+Question 8
+You are part of a web development team working on a project. As the project progresses, you notice that team members are documenting code changes and updates. What is the 
+primary purpose of this documentation process?
+= Making it easier for team members to understand and maintain the codebase
+
+
+Question 9
+Imagine you are a UI/UX designer working on a new mobile app. You want to ensure that the design meets user needs and provides a smooth experience. Which method would you use to
+gather insights into user preferences, behaviors, and pain points?
+= Conducting user research through interviews, surveys, and observation
+
+Question 10
+You are a UI/UX designer tasked with creating an interactive prototype for user testing and feedback. Which type of tool would you use to achieve this?
+ = Prototyping tools
+
 
 Module 1: Introduction to Web and Front-End Development
 
