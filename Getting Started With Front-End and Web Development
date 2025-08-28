@@ -303,6 +303,25 @@ Factors in Choosing a Web Language
 - Scalability and the existing environment (e.g., company technology stack) are also key considerations when selecting a language for a project.
 
 
+Infrastructure-as-a-Service (IaaS)
+- Provides virtualized computing resources over the internet.
+- Users have control over operating systems, storage, and deployed applications.
+- Ideal for businesses that want to build and manage their own applications without investing in physical hardware.
+Example: Amazon Web Services (AWS) EC2.
+
+Platform-as-a-Service (PaaS)
+- Offers a platform allowing developers to build, test, and deploy applications without managing the underlying infrastructure.
+- Users focus on application development while the provider manages the hardware and software layers.
+- Suitable for developers who want to create applications quickly without worrying about the infrastructure.
+Example: Google App Engine.
+
+Software-as-a-Service (SaaS)
+- Delivers software applications over the internet on a subscription basis.
+- Users access applications via web browsers without managing the underlying infrastructure or platform.
+- Great for businesses that need ready-to-use applications without installation or maintenance.
+Example: Microsoft Office 365.
+
+
 Module 3: Introduction to Application Development
 
 Module 4: Get Started with No-Code Development
