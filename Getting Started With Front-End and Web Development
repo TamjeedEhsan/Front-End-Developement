@@ -203,6 +203,53 @@ SSL/TLS Protocols and Certificates:
 1) SSL (Secure Sockets Layer) and TLS (Transport Layer Security) are protocols that secure communication over the internet.
 2) Digital certificates verify website authenticity, with self-signed and CA-signed certificates being the two main types.
 
+A web server is like a waiter in a restaurant. When you (the client) sit down and look at the menu (your web browser), you decide what you want to order (request a web page). 
+The waiter (the web server) takes your order, goes to the kitchen (the server's storage), and brings back your food (the web page) to your table. The web server stores all 
+the ingredients (HTML, CSS, images, etc.) needed to create the web pages and delivers them to you when you ask for them.
+
+
+Web server functions
+- A web server stores, processes, and delivers web pages to clients upon request, using protocols like HTTP for communication.
+- It acts as a repository for website files, ensuring secure data exchange through SSL/TLS encryption and managing multiple client connections.
+
+Client-server model
+- The client-server model operates on a request-response basis, where clients (like web browsers) request services, and servers respond with the requested information.
+- Web servers play a central role in facilitating communication and managing client connections efficiently.
+
+Server-side scripting and configuration
+- Server-side scripting languages (e.g., PHP, Python) enable web servers to generate dynamic content by processing requests and executing embedded code.
+- Web server configuration involves setting parameters like port numbers, virtual hosting, and security measures to optimize performance and protect against attacks.
+
+Load balancing
+- Load balancing distributes incoming requests across multiple web servers to prevent any single server from becoming overwhelmed, enhancing fault tolerance and service 
+availability.
+
+
+Website Importance
+- Websites enable businesses to reach a global audience and operate 24/7, enhancing accessibility.
+- A well-designed website builds credibility and utilizes marketing tools like SEO and analytics.
+
+Website Anatomy
+- Key components include the domain name, home page, navigation menu, content pages, visuals, and contact information.
+- Understanding these elements is crucial for effective website design and user experience.
+
+Types of Websites and Web Pages
+- Websites can be static (fixed content) or dynamic (interactive content), serving different purposes like e-commerce or informational.
+- Common web pages include home, about us, products/services, blog, and contact us, each serving specific functions in user engagement.
+
+
+Responsibility as Front-End Developers
+1) Collaboration with Designers
+- work closely with designers to implement visually appealing and user-friendly interfaces.
+- Effective communication and understanding of design choices are essential for successful collaboration.
+
+2) Key Responsibilities of Front-End Developers
+- Ensuring responsiveness across various devices to provide a seamless user experience.
+- Optimizing performance by minimizing loading times through efficient coding and image compression.
+
+3) Focus on Usability and Accessibility
+- Developers prioritize intuitive navigation and functionality of interactive elements.
+- Accessibility best practices are followed to make websites usable for everyone, regardless of their abilities.
 
 
 Module 3: Introduction to Application Development
