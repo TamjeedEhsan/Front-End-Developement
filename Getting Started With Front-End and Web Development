@@ -1,5 +1,7 @@
 MODULE 1:INTRODUCTION TO WEB AND FRONT-END DEVELOPMENT
 
+
+
 1) Learn the basics of front-end development and its importance in web design.
 2) Understand User Interface (UI) and User Experience (UX) design principles.
 
@@ -148,11 +150,58 @@ Question 10
 You are a UI/UX designer tasked with creating an interactive prototype for user testing and feedback. Which type of tool would you use to achieve this?
  = Prototyping tools
 
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 MODULE 2: WEB INFRASTRUCTURE BASICS AND TERMINOLOGY 
 
 
+Role and Evolution of Web Browsers
+- Web browsers serve as gateways to the internet, allowing users to access websites, stream videos, and play games.
+- The first popular browser, Mosaic, launched in 1993, introduced image display alongside text, enhancing the browsing experience.
+- Notable browsers include Netscape Navigator, Internet Explorer, Mozilla Firefox, Google Chrome, Safari, and Opera, each contributing unique features over time.
+
+Browser Capabilities
+- Browsers render web pages by interpreting HTML, CSS, and JavaScript, using rendering engines like Blink (Chrome) and Gecko (Firefox).
+- They support plugins and extensions, enhancing functionality (e.g., ad blockers, password managers).
+- Incognito or private browsing mode allows users to browse without saving history, though it doesn't guarantee complete anonymity.
+
+Mobile vs. Desktop Browsers
+- Mobile browsers are designed for smaller screens and touch navigation, prioritizing speed and battery efficiency.
+- Desktop browsers offer a feature-rich interface for larger screens, supporting advanced tasks and multitasking.
+
+
+When you want to visit a website, you type its name (like "example.com") into the address bar of your web browser. Your browser needs to find the website's address, which is a 
+series of numbers called an IP address. To do this, it asks a special service called the Domain Name System (DNS) to translate the website name into its IP address. 
+The DNS helps your browser find the right IP address for the website you want to visit.
+Once it has the IP address, the browser can connect to the website's server and request the information needed to display the page.
+
+The process of how a browser sends an HTTP request involves several key steps:
+1) User Action: The process begins when a user enters a URL or clicks a link in the browser.
+2) Creating the Request: The browser prepares an HTTP request, which includes the method (usually "GET"), the URL, and headers with additional information.
+3) Sending the Request: The browser sends the HTTP request to the server over the Internet using the appropriate protocol (HTTP or HTTPS).
+4) Server Response: The server processes the request and sends back an HTTP response, which includes a status code, headers, and the requested content.
+5) Rendering the Page: The browser receives the response and renders the web page for the user to view.
+
+
+HTTP and HTTPS:
+HTTP (Hypertext Transfer Protocol) is the protocol used for communication between web browsers and servers. An HTTP request consists of a request line (method, URI, HTTP version),
+headers (additional information), and an optional body (data sent with requests).
+
+HTTP Responses
+An HTTP response includes a status line (indicating success or error), response headers (providing information about the response), and a body (the actual content sent back).
+
+Introduction to HTTPS
+HTTPS is the secure version of HTTP, adding encryption to protect sensitive data during transmission. It ensures data confidentiality, verifies website authenticity through 
+SSL/TLS certificates, and builds user trust with indicators like the padlock icon in the browser.
+
+Key Differences Between HTTP and HTTPS:
+1) HTTPS encrypts data, while HTTP does not, providing better security.
+2) HTTPS verifies server identity, preventing connections to malicious sites.
+3) HTTPS may have a slight performance impact due to encryption, but advancements have minimized this effect.
+
+SSL/TLS Protocols and Certificates:
+1) SSL (Secure Sockets Layer) and TLS (Transport Layer Security) are protocols that secure communication over the internet.
+2) Digital certificates verify website authenticity, with self-signed and CA-signed certificates being the two main types.
 
 
 
