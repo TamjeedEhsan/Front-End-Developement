@@ -324,8 +324,36 @@ Example: Microsoft Office 365.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+MODULE 3: INTRODUCTION TO APPLICATION DEVELOPMENT
 
-Module 3: Introduction to Application Development
+Web Development Lifecycle:
+1) Conception and Planning
+2) Development and Testing
+3) Deployment and Maintenance
+
+Responsive and Adaptive Design Websites:
+1) Responsive websites automatically adjust their layout based on the device's screen size, ensuring a user-friendly experience.
+2) Adaptive websites serve different versions tailored to specific devices, providing a customized experience for users.
+
+Application development (Cloud applications).
+1) Version Control = Version control is crucial for tracking changes in code, especially when multiple developers are involved. Eg = Git and GitHub
+2) Libraries = Code libraries are collections of reusable code that simplify development by providing pre-written functions. Eg = jQuery for DOM manipulation and Email-validator.
+3) Frameworks = Frameworks offer a structured way to build applications, dictating the architecture and workflow.
+They provide standardization but can limit flexibility, as they control the program flow and require adherence to specific structures. Examples include AngularJS and Django.
+
+
+CI/CD Practices:
+- CI (Continuous Integration) ensures that code components work together smoothly by integrating new code frequently.
+- CD (Continuous Delivery) automates the deployment of code changes to testing or staging environments after CI builds and tests the code.
+
+Build Tools
+
+Build tools transform source code into binaries needed for installation and help manage dependencies.
+They automate tasks such as downloading dependencies, compiling code, packaging binaries, running tests, and deploying to production systems.
+Packages and Package Managers
+
+Packages are archive files that contain app files, installation instructions, and metadata.
+Package managers facilitate finding, installing, maintaining, or uninstalling software packages, ensuring that all required dependencies are managed effectively.
 
 Module 4: Get Started with No-Code Development
 
