@@ -347,15 +347,29 @@ CI/CD Practices:
 - CD (Continuous Delivery) automates the deployment of code changes to testing or staging environments after CI builds and tests the code.
 
 Build Tools
+- Build tools transform source code into binaries needed for installation and help manage dependencies.
+- They automate tasks such as downloading dependencies, compiling code, packaging binaries, running tests, and deploying to production systems.
 
-Build tools transform source code into binaries needed for installation and help manage dependencies.
-They automate tasks such as downloading dependencies, compiling code, packaging binaries, running tests, and deploying to production systems.
 Packages and Package Managers
+- Packages are archive files that contain app files, installation instructions, and metadata.
+- Package managers facilitate finding, installing, maintaining, or uninstalling software packages, ensuring that all required dependencies are managed effectively.
 
-Packages are archive files that contain app files, installation instructions, and metadata.
-Package managers facilitate finding, installing, maintaining, or uninstalling software packages, ensuring that all required dependencies are managed effectively.
 
-Module 4: Get Started with No-Code Development
+Front-End Development Tools
+- HTML, CSS, and JavaScript, with IDEs like Brackets or VS Code recommended for coding.
+Extensions such as Prettier and ESLint are suggested for code formatting and linting to catch issues early.
+
+Back-End Development Tools
+- Node.js is highlighted as a popular choice for back-end development.
+- Flask for Python and Spring for Java, with Express.js recommended for its performance and caching features.
+
+JavaScript Frameworks and Libraries
+- React JS is favored for its speed, efficiency, and ease of learning, while Angular is noted for single-page applications.
+- jQuery and Backbone are also mentioned as useful libraries in the JavaScript ecosystem.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+MODULE 4: GET STARTED WITH NO-CODE DEVELOPMENT.
 
 Module 5:  Front-End Developer Skills and Career Paths
 
