@@ -465,6 +465,29 @@ Additional CMS Options
 - Shopify: Focused on e-commerce.
 - Adobe Commerce (Magento): Targets mid-market and enterprise businesses, offering extensive customization options
 
+
+Understanding WordPress
+- WordPress is a CMS that allows users to build and manage websites, offering more flexibility than traditional website builders.
+- It supports constant updates to design, content, and functionality, making it suitable for various projects like blogs, business sites, and e-commerce.
+
+Platforms: WordPress.org vs. WordPress.com
+- WordPress.org allows users to download the CMS, themes, and plugins but requires self-hosting through third-party services.
+- WordPress.com offers free and paid hosting options but has limitations on customization and access to server features.
+
+Key Concepts and Terminology
+- Important terms include database (stores content), plugins (add features), themes (control appearance), hooks (enable functionality), and the Rest API (build applications).
+- Customization options vary, with visual changes from themes and functional changes from plugins.
+
+Steps in creating a website through WordPress:
+1) Selecting a domain name
+2) Setting up a web hosting
+3) Installing Wordpress
+4) Selecting a theme for your website
+5) Designing the homepage and creating additional webpages.
+6) Installing plugins
+7) Creating navigation menus
+8) Integrating your social media with the website
+
 Module 5:  Front-End Developer Skills and Career Paths
 
 Module 6: Final Project and Wrap-up
