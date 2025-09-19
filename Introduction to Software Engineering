@@ -1,1 +1,63 @@
+Course 2: Introduction to Software Engineering
+
+Module 1: SDLC - THE SOFTWARE DEVELOPMENT LIFECYCLE
+
+Software Development Lifecycle (SDLC).
+- The Software Development Lifecycle is like a recipe for creating software. Just as a chef follows steps to prepare a delicious meal, software developers follow a series of stages to build software. These stages typically include planning, designing, coding, testing, and maintaining the software.
+
+What is Software Engineering?
+- Software engineering involves using programming languages and engineering principles to create products like web apps, mobile apps, and operating systems.
+- It encompasses a full lifecycle from design and implementation to maintenance and improvement of software.
+
+Roles in Software Engineering
+- Different roles include front-end, back-end, security, mobile, test, full-stack, DevOps, cloud data, and machine learning engineers.
+- The distinction between software engineers and developers is discussed, with engineers taking on broader responsibilities including system design and architecture.
+
+Creative Process in Software Engineering
+- Software engineering is described as a creative process that requires envisioning and supporting software throughout its lifecycle.
+- The importance of understanding the software before coding is emphasized, along with the need for various considerations during the engineering process.
+
+Phases of the SDLC
+- The SDLC consists of six phases: planning, design, development, testing, deployment, and maintenance.
+- Each phase is distinct, with no overlap of tasks between them, although some organizations may use different names or have variations in the number of phases.
+
+Planning and Design
+- In the planning phase, requirements are gathered, analyzed, and documented, leading to the creation of a Software Requirements Specification (SRS) document.
+- The design phase involves developing the software architecture based on the SRS, with prototypes created for demonstration and feedback.
+
+Development and Testing
+- The development phase is where coding occurs, guided by the design document, using various programming tools and languages.
+- The testing phase follows development, ensuring the code is stable and meets requirements through various testing methods.
+
+Deployment and Maintenance
+- During the deployment phase, the application is released to users, often in stages, starting with user acceptance testing.
+- The maintenance phase addresses any bugs or issues post-deployment and may lead to further enhancements, restarting the SDLC cycle as needed.
+
+Requirements of Software Engineering
+
+Gathering Process
+- Involves six steps: identifying stakeholders, establishing goals and objectives, eliciting requirements, documenting requirements, analyzing and confirming requirements, and prioritizing.
+- Stakeholders include decision-makers, end-users, and other personnel from the organization requesting the software.
+
+Key Documentation
+- User Requirement Specification (URS): Captures user stories detailing who the user is, what function needs to be performed, and why.
+- Software Requirement Specification (SRS): Documents functional, external, system, and non-functional requirements, including purpose, scope, constraints, and dependencies.
+- System Requirement Specification (SysRS): Broader than SRS, outlining system capabilities, interfaces, user characteristics, and various requirements including performance and security.
+
+V-Shape Model
+Plan                                                   Acceptance Testing
+    System Design                                System Testing
+           Architecture Design            Integration Testing
+                    Module Design      Unit Testing
+                                 Coding
+
+Module 2: Introduction to Software Development
+
+Module 3: Basics of Programming
+
+Module 4: Software Architecture, Design, and Patterns
+
+Module 5: Job Opportunities and Skillsets in Software Engineering
+
+Module 6: Final Activity and Quiz
 
