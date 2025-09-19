@@ -91,6 +91,22 @@ Roles in Software Engineering Projects
 
 Module 2: Introduction to Software Development
 
+Pair Programming
+Types of Pair Programming
+- Driver/Navigator Style: One developer types the code (driver) while the other reviews and guides (navigator). They regularly switch roles to keep both engaged.
+- Ping-Pong Style: Developers alternate between writing tests and code for each task, ensuring both contribute equally.
+- Strong Style: A more experienced developer guides a junior developer, allowing the latter to learn through observation and implementation.
+
+Benefits of Pair Programming
+- Enhances knowledge sharing and skill development between developers.
+- Improves code quality by reducing errors and enabling on-the-fly code reviews.
+- Fosters better communication and problem-solving skills.
+
+Challenges of Pair Programming
+- Requires sustained focus, which can be exhausting.
+- Scheduling conflicts may arise due to personal commitments.
+- Personality clashes can hinder collaboration, and noise from multiple pairs can disrupt others.
+
 Module 3: Basics of Programming
 
 Module 4: Software Architecture, Design, and Patterns
