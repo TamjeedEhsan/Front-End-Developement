@@ -51,6 +51,44 @@ Plan                                                   Acceptance Testing
                     Module Design      Unit Testing
                                  Coding
 
+
+Software Versions
+- Each version number is a unique label that helps users and developers know what changes have been made over time. For example, if you see a version number like 1.0, it means that this is the first official release of the software, with no updates or fixes yet. If you see a number like 2.3.1, it indicates that there have been major changes (the 2), some minor updates (the 3), and a few small fixes (the 1).
+- The first release of software might be labeled as 1.0, while beta versions can be lower than 1, such as 0.9.
+
+Sofware Testing
+- Functional Testing: This checks if the software performs its intended functions correctly, focusing on inputs and outputs without looking at the internal code.
+- Non-Functional Testing: This evaluates the software's performance attributes, such as speed, security, and scalability, under various conditions.
+- Regression Testing: This ensures that recent changes or bug fixes do not negatively impact existing functionalities.
+
+Testing Levels
+- Unit Testing: Tests individual sections of code to catch errors early in the development phase.
+- Integration Testing: Checks for errors when combining multiple code modules to ensure they work together correctly.
+- System Testing: Validates the complete software product against specified requirements in a staging environment.
+- Acceptance Testing: Confirms that the software meets user needs and requirements, typically conducted by customers or stakeholders.
+
+Software Documentation
+- Documentation can be in three formats: written, video, or graphical.
+- It is categorized into product documentation (related to product functionality) and process documentation (describing how to complete tasks).
+
+Categories of Product Documentation
+- Five main types include requirements documentation (features and functionality), design documentation (how software will be built), technical documentation (code comments and working papers), quality assurance documentation (testing strategies and metrics), and user documentation (guides for end-users).
+
+Standard Operating Procedures (SOPs)
+- SOPs provide detailed, step-by-step instructions for specific organizational tasks, complementing process documentation.
+- Keeping documentation up to date is crucial, especially during the maintenance phase of the SDLC, to ensure accuracy and relevance.
+
+Roles in Software Engineering Projects
+- Project Manager/Scrum Master: This person keeps everything organized and makes sure the team communicates well. They help plan the project and solve any big issues that come up.
+- Stakeholders: These are the people who will use the software or have a say in what it should do. They provide important feedback and help define what the project needs to achieve.
+- Software Architect: This role involves designing the overall structure of the software, like an architect designing a building. They ensure that everything fits together well.
+- UX Designer: This person focuses on how users will interact with the software, making it easy and enjoyable to use.
+- Software Developer: These are the coders who write the actual software, turning ideas into a working product.
+- Tester/QA Engineer: They check the software for bugs and ensure it meets the requirements before it’s released.
+- Site Reliability Engineer: This role combines development and operations, ensuring the software runs smoothly and reliably.
+- Product Manager: They have a vision for the product and guide the team to make sure it meets users' needs.
+- Technical Writer: This person creates user manuals and documentation to help users understand how to use the software.
+
 Module 2: Introduction to Software Development
 
 Module 3: Basics of Programming
