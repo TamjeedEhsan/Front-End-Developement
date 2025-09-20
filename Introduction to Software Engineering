@@ -90,7 +90,7 @@ Roles in Software Engineering Projects
 - Technical Writer: This person creates user manuals and documentation to help users understand how to use the software.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Module 2: Introduction to Software Development
+Module 2: INTRODUCTION TO SOFTWARE DEVELOPMENT
 
 Pair Programming
 Types of Pair Programming
@@ -122,7 +122,7 @@ Benefits and Challenges
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
-Module 3: Basics of Programming
+Module 3: BASICS OF PROGRAMMING
 
 Interpreted Programming Languages
 - These languages, such as Python and JavaScript, are executed line by line by an interpreter, which translates the code into machine code on the fly.
@@ -132,9 +132,57 @@ Compiled Programming Languages
 - Languages like C, C++, and Java are compiled into machine code before execution, creating a single executable file.
 - Compiled programs run faster and are used for more complex applications, such as operating systems and large software projects.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Module 4:SOFTWARE ARCHITECTURE, DESIGN AND PATTERNS
 
-Module 4: Software Architecture, Design, and Patterns
+Understanding Software Architecture
+- Software architecture serves as a blueprint for the software system, outlining how components interact and behave.
+- It captures early design decisions that are often difficult and costly to change later in the development process.
+
+Importance of Well-Designed Architecture
+- A well-structured architecture balances stakeholder needs and facilitates communication among team members.
+- It influences technology stack choices and accommodates changing requirements during development.
+
+Artifacts of Software Architecture
+- Key artifacts produced during architectural design include the Software Design Document (SDD), architectural diagrams, and Unified Modeling Language (UML) diagrams.
+- These artifacts help communicate design decisions and specifications to stakeholders and guide the implementation process.
+
+Structured Design
+- Breaks down software problems into smaller, organized modules and sub-modules.
+- Emphasizes cohesion (related elements grouped together) and loose coupling (minimal impact of changes between modules).
+
+Unified Modeling Language (UML)
+- A standardized way to visually represent software architecture, design, and implementation.
+- Helps in planning features, onboarding new team members, and facilitating communication between technical and non-technical audiences.
+
+Behavioral Models
+- Describe what a system does without detailing how it does it.
+- Includes state transition diagrams (showing system states and transitions) and interaction diagrams (visualizing object communication over time).
+
+Understanding Objects and Classes
+- Objects contain data and behaviors that define their actions.
+- Classes serve as blueprints for creating specific objects, known as instances.
+
+Class Diagrams in OOAD
+- Class diagrams visually represent the structure of a software system, showing how classes relate to one another.
+- Each class in a diagram includes its attributes (properties and methods) and illustrates relationships, such as inheritance.
+
+Purpose of OOAD
+- OOAD helps in planning software systems by breaking them down into interacting objects.
+- It allows multiple developers to work on different parts of an application simultaneously, enhancing collaboration and efficiency.
+
+Component Based Architecture
+- A component in software architecture is an individual unit of functionality that is designed to perform a specific task within an application. 
+
+Characteristics of Components
+- Reusable: Designed to be used in multiple applications.
+- Replaceable: Can be easily swapped with another component.
+- Independent: Functions without dependencies on other components.
+- Extensible: Allows for adding new features without altering existing functionality.
+- Encapsulated: Hides internal details and exposes only necessary interfaces.
+- Non-context specific: Operates in various environments, with its state set externally.
+
 
 Module 5: Job Opportunities and Skillsets in Software Engineering
 
