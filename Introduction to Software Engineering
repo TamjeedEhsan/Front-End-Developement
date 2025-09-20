@@ -89,6 +89,7 @@ Roles in Software Engineering Projects
 - Product Manager: They have a vision for the product and guide the team to make sure it meets users' needs.
 - Technical Writer: This person creates user manuals and documentation to help users understand how to use the software.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Module 2: Introduction to Software Development
 
 Pair Programming
@@ -122,6 +123,16 @@ Benefits and Challenges
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
 Module 3: Basics of Programming
+
+Interpreted Programming Languages
+- These languages, such as Python and JavaScript, are executed line by line by an interpreter, which translates the code into machine code on the fly.
+- They are often easier to learn and more versatile, allowing for quick testing and execution, but may run slower than compiled languages.
+
+Compiled Programming Languages
+- Languages like C, C++, and Java are compiled into machine code before execution, creating a single executable file.
+- Compiled programs run faster and are used for more complex applications, such as operating systems and large software projects.
+
+
 
 Module 4: Software Architecture, Design, and Patterns
 
