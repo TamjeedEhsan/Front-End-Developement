@@ -107,6 +107,20 @@ Challenges of Pair Programming
 - Scheduling conflicts may arise due to personal commitments.
 - Personality clashes can hinder collaboration, and noise from multiple pairs can disrupt others.
 
+Software Stacks
+- A software stack consists of various technologies, including programming languages and frameworks, organized in layers to support application development.
+- The higher layers interact with users, while the lower layers connect with hardware.
+
+Types of Software Stacks
+- Common examples include the LAMP stack (Linux, Apache, MySQL, PHP) and the MEAN stack (MongoDB, Express.js, Angular.js, Node.js).
+- Each stack has its own advantages and is suited for different types of applications.
+
+Benefits and Challenges
+- Software stacks can be flexible, allowing developers to choose components that best fit their needs.
+- However, some stacks may have limitations, such as compatibility issues or performance constraints.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
 Module 3: Basics of Programming
 
 Module 4: Software Architecture, Design, and Patterns
