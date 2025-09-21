@@ -183,6 +183,86 @@ Characteristics of Components
 - Encapsulated: Hides internal details and exposes only necessary interfaces.
 - Non-context specific: Operates in various environments, with its state set externally.
 
+Architectural Patterns
+
+2-Tier Architecture
+- Also known as client-server architecture, where the server manages resources and services for multiple clients.
+- Example: Text messaging apps where clients send requests to a server.
+
+3-Tier Architecture
+- Composed of three layers: presentation (user interface), application (business logic), and data (storage).
+- Example: Web applications that separate user interface, processing, and data management.
+
+Peer-to-Peer Architecture
+- A decentralized network where nodes act as both clients and servers, sharing resources directly.
+- Example: Cryptocurrencies like Bitcoin, where each node contributes to the network.
+
+Event-Driven Architecture
+- Focuses on events triggered by user actions or system changes, with producers generating events and consumers processing them.
+- Example: Ride-sharing apps that respond to user requests for rides.
+
+Microservices Architecture
+- Breaks applications into modular services that communicate through APIs, allowing for flexibility and scalability.
+- Example: Social media platforms that offer various services like friend requests and content display.
+
+Combination of Patterns
+- Architectural patterns can be combined, but some are not compatible, such as peer-to-peer and 2-tier architectures.
+
+Production Environment Components
+- Common components include firewalls, load balancers, web servers, application servers, proxy servers, and database servers.
+- Not all components are necessary for every deployment; it depends on the specific environment.
+
+Firewalls and Load Balancers
+- A firewall monitors and controls incoming and outgoing network traffic based on security rules, acting as a barrier against threats.
+- Load balancers distribute network traffic efficiently among multiple servers to prevent overload and ensure high availability and responsiveness.
+
+Server Types
+- Web servers deliver content like web pages and files to clients, responding to requests from web browsers.
+- Application servers run business logic and provide applications to clients, enabling interaction with server-side code.
+- Proxy servers act as intermediaries between different tiers, handling requests and improving efficiency, privacy, and security.
+- Database servers store and manage data, controlled by a database management system (DBMS) that connects applications to the database.
+
+Question 1
+Your team is tasked with creating a scalable enterprise application, considering that the earlier design choices will have a long-lasting impact on the application’s structure and future development process. Which of the following aspects should a team focus on?
+Answer: It represents the earliest design decisions.
+
+Question 2
+The architectural design team has completed its design work and is compiling outputs for documentation. Which of the following would be an expected artifact at this stage?
+Answer: Unified modeling language (UML) diagrams showing system structure
+
+Question 3
+Which of the following best represents the states of login, processing, and log out for the user interaction with the system in various phases?
+Answer: A diagram that illustrates different user states and events that trigger state change.
+
+Question 4
+A new software team was provided with the unified modeling language (UML) diagram to understand the system’s components and their interactions in software architecture. What is the benefit of UML diagrams in software architecture?
+Answer: They provide a visual overview for onboarding and collaboration.
+
+Question 5
+A startup company wants to design an application in which each node captures requests and provides services to the other nodes without a central server. Which of the following architectures is best suited in this scenario?
+Answer: Peer-to-peer architecture
+
+Question 6
+A software development team wants to represent a hospital’s patient management system using object-oriented concepts. How will they define the relationship between patient Naya Patel and the patient class in the object-oriented system?
+Answer: Naya Patel is an instance of the patient class with specific attribute values.
+
+Question 7
+A developer builds a system where the user interface directly communicates with a server that handles data processing. No separate application logic layer is used. What type of architecture is this?
+Answer: A 2-tier architecture with client interfaces talking directly to a server
+
+Question 8
+You are designing a new social media site and want to build it using modular services that interact via APIs. Which architecture pattern is appropriate for this scenario?
+Answer: Microservices architecture
+
+Question 9
+While launching an application for public users, it is important to secure their information. Which environment should an organization use to launch this application?
+Answer: The production team deploys a fully operational production system for general users.
+
+Question 10
+An organization wants to leverage a server that handles business logic and enables communication between users and server-side applications. Which server is best suited for this requirement?
+Answer: Application server
+
+
 
 Module 5: Job Opportunities and Skillsets in Software Engineering
 
