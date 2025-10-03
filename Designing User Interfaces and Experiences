@@ -104,4 +104,51 @@ Performance Optimization Techniques
 - Lazy Loading: Load essential content first, delaying the loading of non-critical elements to improve page load times.
 - Utilizing Device Capabilities: Leverage mobile hardware features, such as cameras and GPS, to enhance user interaction and experience.
 
+Understanding PWAs
+- PWAs are applications built using web technologies that offer an app-like experience across devices from a single code base.
+- They utilize service workers for offline functionality and improved navigation.
+
+Advantages of PWAs
+- Easy installation on home screens and minimal page refreshes, resembling native apps.
+- They are responsive, work offline, and are easily discoverable through search engines.
+
+Disadvantages of PWAs
+- Limited compatibility and sharing capabilities among different PWAs.
+- Users may struggle to find specific applications due to functional limitations.
+
+Comparison with Other Technologies
+- PWAs require a smaller development team and simpler code compared to native apps.
+- They offer a standardized approach, unlike traditional web applications that may have limitations.
+
+Key Building Blocks for PWAs
+- Essential components include service workers, secure HTTPS connections, and a JSON file for app information.
+- Tips for successful PWAs include targeting specific hardware needs, ensuring offline access, and optimizing for speed across devices.
+
+Technologies for PWA
+- For frontend development = React, Vue
+
+Service Workers Overview
+- Service workers enable offline access, rapid loading, and push notifications for web applications.
+- They operate on a separate thread from the main JavaScript code and do not access the DOM directly.
+
+Lifecycle of Service Workers
+- Registration: The browser registers the service worker to know its location.
+- Installation: The service worker is installed, during which caching occurs.
+- Activation: The service worker is activated, ensuring no other service worker is controlling the pages.
+
+Features of Service Workers
+- Manage network requests and cache static assets.
+- Allow applications to function offline and receive push notifications.
+- Utilize the Background Sync API to perform tasks when connectivity is stable.
+
+Push Notifications
+- Alerts sent to users' devices to encourage actions without needing an app.
+- Useful in various industries, such as media, e-commerce, tourism, and banking.
+
+Data Storage Options in PWAs
+- Options include IndexedDB, Web Storage, Cache API, and File System Access API for local data storage.
+- Various caching strategies are available to optimize data retrieval and user experience.
+
 MODULE 3: UI DESIGN WITH FIGMA
+
+
