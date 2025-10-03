@@ -151,4 +151,42 @@ Data Storage Options in PWAs
 
 MODULE 3: UI DESIGN WITH FIGMA
 
+Accessing Figma
+- Figma is a cloud-based tool accessible from any device with internet connectivity.
+- Users need to sign up for an account on the Figma website or download the desktop/mobile app to start using it.
 
+Features of Figma
+- Figma includes design tools like vector editing, typography, grids, and animations for creating wireframes and prototypes.
+- It allows real-time collaboration, enabling multiple users to work on a project simultaneously and receive instant feedback.
+
+Community and Collaboration
+- FigJam is a collaborative platform integrated with Figma for brainstorming and organizing ideas in real-time.
+- The Figma community allows users to share design resources, templates, and receive feedback, fostering collaborative learning.
+
+Core Concepts of Figma
+- Frames: Rectangular containers that organize design elements, allowing for resizing and positioning independently from their contents. They help create visual hierarchy and manage complex layouts.
+- Components: Reusable design elements that ensure consistency across designs. Updating a component updates all instances, and variants allow for different properties like size or color.
+
+Design Elements and Features
+- Layers: Individual elements in a design, organized hierarchically. Each layer has adjustable properties, and the layer panel aids in navigation and editing.
+- Prototyping: Enables the creation of interactive prototypes to simulate user flows and test design concepts directly within Figma.
+
+Collaboration and Automation
+- Collaboration: Multiple users can edit designs simultaneously, with features for commenting and version history to enhance teamwork.
+- Plugins: A library of plugins that automate tasks and streamline workflows, with options to create custom plugins for specific needs.
+
+Responsive Design and Animation
+- Auto Layout: Creates dynamic, responsive designs that adjust based on content, saving time in layout adjustments.
+- Smart Animate: Allows for smooth transitions between frames, automating animations based on changes, and providing control over animation properties.
+
+Figma Design Styles
+- Figma includes various design styles such as Material Design, iOS, Windows, macOS, and Fluent, each with predefined colors, typography, and unique design elements.
+- These styles help designers create consistent and visually appealing interfaces across different platforms.
+
+Figma Libraries
+- Figma libraries are collections of design elements, styles, and assets that can be reused across multiple projects, enhancing efficiency.
+- There are three types of libraries: Team library, Personal library, and Public library.
+
+Benefits of Using Styles and Libraries
+- Utilizing styles and libraries ensures uniformity in design, reduces errors, and improves workflow.
+- They facilitate collaboration among team members and allow for easy scalability and modification of design components.
