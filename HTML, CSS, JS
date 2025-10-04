@@ -1,0 +1,19 @@
+MODULE 1 - HTML OVERVIEW
+
+- HTML stands for Hypertext Markup Language, which is essential for displaying documents as web pages on the Internet.
+- HTML elements, represented by tags, serve as the building blocks of a webpage, including paragraphs, lists, and tables.
+
+Evolution of HTML5
+- HTML has evolved since its introduction in the early 1990s, with contributions from organizations like W3C and WHATWG.
+- HTML5, the latest version, supports both HTML and XML syntax, improves document markup, and includes APIs for web storage, video, and audio content.
+
+Key Features of HTML5
+- HTML5 defines a single language that ensures compatibility with earlier HTML versions.
+- Developers often use HTML and HTML5 interchangeably, with HTML generally referring to HTML5 in this course context.
+
+
+
+MODULE 2 - CSS OVERVIEW
+
+MODULE 3 - JS OVERVIEW
+
