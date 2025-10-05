@@ -11,7 +11,11 @@ Key Features of HTML5
 - HTML5 defines a single language that ensures compatibility with earlier HTML versions.
 - Developers often use HTML and HTML5 interchangeably, with HTML generally referring to HTML5 in this course context.
 
-
+<!DOCTYPE html> - represents the document type and helps browser to display web pages
+<h1></h1> - Heading 1, <h2></h2> - Heading 2 , <h3><h3> - Heading 3, <h4></h4>- Heading 4, <h5></h5> - Heading 5, <h6></h6> - Heading 6
+<p></p> - paragraph
+<a href="any link"> This is a link </a>
+<img src="w3schools.jpg" alt="W3Schools.com">
 
 MODULE 2 - CSS OVERVIEW
 
