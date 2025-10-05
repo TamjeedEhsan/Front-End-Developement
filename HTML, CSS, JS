@@ -12,10 +12,22 @@ Key Features of HTML5
 - Developers often use HTML and HTML5 interchangeably, with HTML generally referring to HTML5 in this course context.
 
 <!DOCTYPE html> - represents the document type and helps browser to display web pages
+<html lang="en"></html> - for displaying the html
 <h1></h1> - Heading 1, <h2></h2> - Heading 2 , <h3><h3> - Heading 3, <h4></h4>- Heading 4, <h5></h5> - Heading 5, <h6></h6> - Heading 6
 <p></p> - paragraph
-<a href="any link"> This is a link </a>
+<p title="I'm a tooltip">This is a paragraph.</p>  The value of the title attribute will be displayed as a tooltip when you mouse over the element:
+<a href="any link"> This is a link </a> , <a href="https://www.w3schools.com/" target="_blank">Visit W3Schools!</a>
 <img src="w3schools.jpg" alt="W3Schools.com">
+<body></body> - for creating the body
+<br> - for giving a break in line
+<hr> - used to seperate content 
+<b> - Bold text, <i> - Italic text
+<link rel="stylesheet" href="style.css"> - for connecting css with the html
+<button onclick="document.location='default.asp'">HTML Tutorial</button> JavaScript allows you to specify what happens at certain events, such as a click of a button:
+<title></title> - title of the webpage
+<head><head> - heading section 
+
+
 
 MODULE 2 - CSS OVERVIEW
 
