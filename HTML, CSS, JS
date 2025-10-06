@@ -28,8 +28,47 @@ Key Features of HTML5
 <head><head> - heading section 
 <table></table> , <tr></tr> - for inserting row, <th></th> - table heading, <td></td> - table data
 <colgroup></colgroup> - specficies a group one or more column in a table for formatting
-colspan = 2, rowspan = 2 (column takes the space of 2 
+colspan = 2, rowspan = 2 (column takes the space of 2 columns, row takes the space of 2 rows)
+<colgroup>
+    <col span="2" style="background-color: #D6EEEE">
+    <col span="3" style="background-color: pink">
+  </colgroup>
+tr:nth-child(even)
+<ul></ul> -unordered list, <li></li> - each item in the list, <ol></ol> - ordered list
+<ol type="1">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
+type="1"	The list items will be numbered with numbers (default)
+type="A"	The list items will be numbered with uppercase letters
+type="a"	The list items will be numbered with lowercase letters
+type="I"	The list items will be numbered with uppercase roman numbers
+type="i"	The list items will be numbered with lowercase roman numbers
+<div></div> - The <div> element defines a division or a section in an HTML document.
+<script></script> - used to connect it to the javascript file to the html
+<meta charset="UTF-8"> - Define the character set used
+<meta name="keywords" content="HTML, CSS, JavaScript"> - Define keywords for search engines
+<meta name="description" content="Free Web tutorials"> - Define a description of your web page
+<meta http-equiv="refresh" content="30"> - Refresh document every 30 seconds
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> - Setting the viewport to make your website look good on all devices
+<header></header> - Defines a header for a document or a section
+<nav></nav> - Defines a set of navigation links
+<section></section> - Defines a section in a document
+<footer></footer> - Defines a footer for a document or a section
 
+<form></form> - for starting any form
+<label for="fname">First name:</label><br>
+<input type="text" id="fname" name="fname" value="John"><br>
+<label for="lname">Last name:</label><br>
+<input type="text" id="lname" name="lname" value="Doe"><br><br>
+<input type="submit" value="Submit">
+
+<input type="text">	Displays a single-line text input field
+<input type="radio">	Displays a radio button (for selecting one of many choices)
+<input type="checkbox">	Displays a checkbox (for selecting zero or more of many choices)
+<input type="submit">	Displays a submit button (for submitting the form)
+<input type="button">	Displays a clickable button
 
 MODULE 2 - CSS OVERVIEW
 
