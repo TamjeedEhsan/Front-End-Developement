@@ -70,6 +70,55 @@ type="i"	The list items will be numbered with lowercase roman numbers
 <input type="submit">	Displays a submit button (for submitting the form)
 <input type="button">	Displays a clickable button
 
+<form action="/action_page.php" method="get">
+<form action="/action_page.php" method="post">
+
+The <select> element defines a drop-down list
+<label for="cars">Choose a car:</label>
+<select id="cars" name="cars">
+  <option value="volvo">Volvo</option>
+  <option value="saab">Saab</option>
+  <option value="fiat">Fiat</option>
+  <option value="audi">Audi</option>
+</select>
+
+The <textarea> element defines a multi-line input field (a text area)
+<textarea name="message" style="width:200px; height:600px;">
+The cat was playing in the garden.
+</textarea>
+
+<input type="button">
+<input type="checkbox">
+<input type="color">
+<input type="date">
+<input type="datetime-local">
+<input type="email">
+<input type="file">
+<input type="hidden">
+<input type="image">
+<input type="month">
+<input type="number">
+<input type="password">
+<input type="radio">
+<input type="range">
+<input type="reset">
+<input type="search">
+<input type="submit">
+<input type="tel">
+<input type="text">
+<input type="time">
+<input type="url">
+<input type="week">
+
+Input Attributes:
+The input disabled attribute specifies that an input field should be disabled. A disabled input field is unusable and un-clickable.
+The input size attribute specifies the visible width, in characters, of an input field. The default value for size is 20.
+The input maxlength attribute specifies the maximum number of characters allowed in an input field.
+The input min and max attributes specify the minimum and maximum values for an input field.
+The min and max attributes work with the following input types: number, range, date, datetime-local, month, time and week.
+The input placeholder attribute specifies a short hint that describes the expected value of an input field (a sample value or a short description of the expected format).
+The input required attribute specifies that an input field must be filled out before submitting the form.
+
 MODULE 2 - CSS OVERVIEW
 
 MODULE 3 - JS OVERVIEW
