@@ -137,7 +137,16 @@ p.center {
 }
 
 color 
-text-align
+text-align = left/right/center/justify
+text-decoration-line = underline/none
+text-decoration-color
+text-decoration-style = solid/double/dotted
+text-decoration-thickness
+text-transform = capitaliza/uppercase/lowercase
+text-indent
+word-spacing
+text-shadow = 2px 2px red
+font-family
 background-color = property specifies the background color of an element.
 opacity = specifies the opacity/transparency of an element. It can take a value from 0.0 - 1.0.
 background-image = url("paper.gif");
@@ -147,8 +156,28 @@ background-position: right top;
 background-attachment: fixed/scroll
 border-style = dotted/dashed/solid/double/none/hidden
 border-width = 5px/medium/thick/2px/ 5px 20px  /* 5px top and bottom, 20px on the sides */
-
-
+border-color = red/green/ red green blue yellow /* red top, green right, blue bottom and yellow left */
+border-top/right/bottom/left-style 
+border-radius = 5px
+margin-top/bottom/right/left: 100px;
+padding-top/right/bottom/left: 50px;
+height / width
+max-width = property sets the maximum allowed width of an element
+max-height
+CSS Box Model 
+Margin ------- Outline-------Border ------- Padding --------Content
+Content - The content of the box, where text and images appear
+Padding - Clears an area around the content. The padding is transparent
+Border - A border that goes around the padding and content
+Margin - Clears an area outside the border. The margin is transparent
+320px (width of content area)
++ 20px (left padding + right padding)
++ 10px (left border + right border)
+= 350px (total width)
+outline-style - Specifies the style of the outline
+outline-color - Specifies the color of the outline
+outline-width - Specifies the width of the outline
+outline-offset - Adds space between the outline and the edge/border of an element
 
 
 
