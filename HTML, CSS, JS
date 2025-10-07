@@ -121,5 +121,40 @@ The input required attribute specifies that an input field must be filled out be
 
 MODULE 2 - CSS OVERVIEW
 
+In this example all <p> elements will be center-aligned, with a red text color:
+p {
+  color: red;
+  text-align: center;
+}
+
+The id selector (#) character, followed by the id of the element.
+To select elements class, (.) character, followed by the class name.
+
+In this example only <p> elements with class="center" will be red and center-aligned: 
+p.center {
+  text-align: center;
+  color: red;
+}
+
+color 
+text-align
+background-color = property specifies the background color of an element.
+opacity = specifies the opacity/transparency of an element. It can take a value from 0.0 - 1.0.
+background-image = url("paper.gif");
+background-repeat: repeat-x;
+background-repeat: no-repeat = Showing the background image only once
+background-position: right top;
+background-attachment: fixed/scroll
+border-style = dotted/dashed/solid/double/none/hidden
+border-width = 5px/medium/thick/2px/ 5px 20px  /* 5px top and bottom, 20px on the sides */
+
+
+
+
+
+
+
+
+
 MODULE 3 - JS OVERVIEW
 
