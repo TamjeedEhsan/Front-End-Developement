@@ -1,0 +1,52 @@
+Bugs = Error that occurs while writing programs or code. Bugs can occur due to various reasons, such as incorrect punctuation, data types, or variable names.
+
+Steps in the Debugging Process
+- Replicate the bug by recreating the conditions that caused the error.
+- Test hypotheses about the bug and log additional data to diagnose the issue.
+- Adjust test scenarios and repeat the process as needed.
+
+Importance and Benefits of Debugging
+- Debugging helps break down complex problems, making it easier to identify issues.
+- It provides critical information about data structures and improves the overall software development process by catching errors early.
+
+debugging strategies
+- Incremental development involves building the program step by step, testing each part to limit the search for bugs to small code fragments.
+- Backtracking allows programmers to trace back through the code from the point of failure to identify the source of the error.
+
+types of bugs
+- Type errors are detected by the compiler and include issues like incorrect code syntax.
+- Implementation errors occur when the program's logic is correct, but the data structures are mishandled, leading to unexpected behavior.
+
+important debugging terminologies
+- Application logs provide insights into what the program did before an issue occurred, helping to identify bugs.
+- A debugger is a tool that allows programmers to step through code line by line to investigate and fix issues.
+
+Common Debugging Tools
+- Chrome Developer Tools: Built into the Chrome browser, it allows quick debugging of JavaScript and includes features for network and performance monitoring.
+- Firefox Developer Tools: Integrated into Firefox, it offers similar functionalities to Chrome, including a JavaScript console and network traffic monitoring.
+
+Additional Tools
+- Safari Developer Tools: Requires enabling the Develop menu for access, providing tools for JavaScript debugging and network monitoring.
+- React Developer Tools: An extension for Chrome that helps inspect props and state values in React applications.
+- Visual Studio Code: A cross-platform code editor that supports Java debugging through extensions, offering a user-friendly debugging experience.
+
+Website Monitoring Overview
+- Website monitoring evaluates a website's functionality, performance, and availability to ensure it operates as intended.
+- Continuous monitoring helps prevent downtime and allows organizations to respond proactively to potential errors.
+
+Methods of Website Monitoring
+- Automated monitoring simulates real user interactions to check performance and availability using a network of computers.
+- Real User Monitoring (RUM) tracks actual user interactions to analyze performance metrics like page load times and error rates.
+
+Types of Website Monitoring
+- Availability monitoring checks if a website is accessible to users.
+- Performance monitoring assesses the speed of a website, tracking both frontend and backend performance.
+- Functionality monitoring tests website features, ensuring they work correctly and alerting staff to any issues.
+
+Popular Monitoring Tools
+- Pingdom: Offers uptime monitoring with detailed alerts and real-time user monitoring.
+- Uptime Robot: A simple tool for uptime notifications, with a free account option for small websites.
+
+Advanced Monitoring Solutions
+- Datadog Synthetics: Proactively monitors API endpoints and integrates with CI pipelines for early problem detection.
+- New Relic: Provides a comprehensive observability platform for monitoring, debugging, and enhancing software performance.
