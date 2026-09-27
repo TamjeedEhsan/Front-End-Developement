@@ -186,10 +186,3 @@ a:hover = a link when the user mouses over it
 a:active = a link the moment it is clicked
 list-style-image: url('sqpurple.gif');
 list-style-type: square;
-
-
-
-
-
-MODULE 3 - JS OVERVIEW
-
